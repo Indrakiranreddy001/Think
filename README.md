@@ -11,4 +11,7 @@ bearing the minimum requirments and pain is treated as legal things where you de
 how much far you are is not the road you design and how much higher you can raise is bit tricky
 
 
+Python- LEArning something new
+
+
 
